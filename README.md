@@ -1,5 +1,3 @@
-![Markdown symbol](https://media.licdn.com/dms/image/C4E16AQGTZ7ZCNRFsoA/profile-displaybackgroundimage-shrink_350_1400/0/1669020272717?e=1718236800&v=beta&t=5GtCgyhhEuWIp0wUA_LWb0SiUkjaKRbg10-hcQq2etI)
-
 ### ![illustrator](https://img.icons8.com/?size=32&id=2ojQ1xWr0Wo2&format=png&color=1A6DFF,C822FF) Hi I'm Amir Torangan 👋
 
 I am AmirReza Torangan. I’m a front-end developer and also an industrial engineer. I’ve been learning and practicing development (web, applications) for 3 years. Nowadays, I am working on an online installments manager web application.
